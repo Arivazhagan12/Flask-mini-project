@@ -1,0 +1,2 @@
+select * from users;
+alter table users auto_increment = 1;
